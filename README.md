@@ -28,4 +28,3 @@ Example Predix.io python application.
 
 References:
 https://devcloud.swcoe.ge.com/devspace/display/TBNPM/WMBU+and+Forecast+Analytics+Microservices+Design
-https://forum.predix.io/questions/2778/how-do-i-deploy-python-application-in-predix.html
