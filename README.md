@@ -8,13 +8,13 @@ Example Predix.io python application.
   - $ cf push      - to push the python app to Cloud
 '''
 
-##Useful commnads:
-##================
+## Useful commnads:
+## ================
 - $ cf login        --loging with your Predix credentials
 - $ cf buildpacks   --lists the buildpacks that you can refer to by name in the **manifest.yml** file--
 
-##CloudFoundry Files
-##==================
+## CloudFoundry Files
+## ==================
 **Manifest.yml**
 --used to tell CF what container it needs to build. Most importantly, you will need to specify the buildpack (as you have already done).--
 
