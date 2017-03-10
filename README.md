@@ -9,7 +9,7 @@ Example Predix.io python application.
 ## Useful commnads:
 ```
   - $ cf login        --loging with your Predix credentials
-  - $ cf buildpacks   --lists the buildpacks that you can refer to by name in the **manifest.yml** file--
+  - $ cf buildpacks   --lists the buildpacks for manifest.yml file--
   - $ cf apps
 ```
 
