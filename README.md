@@ -8,8 +8,8 @@ Example Predix.io python application.
 
 ## Useful commnads:
 ```
-  - $ cf login        --loging with your Predix credentials
-  - $ cf buildpacks   --lists the buildpacks for manifest.yml file--
+  - $ cf login        -- login with Predix credentials
+  - $ cf buildpacks   -- buildpacks for manifest.yml file
   - $ cf apps
 ```
 
