@@ -18,6 +18,7 @@ Example Predix.io python application.
 ## CloudFoundry Files
 **Manifest.yml**
 - used to tell CF what container it needs to build
+  
   see also http://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html
 
 **Procfile**
@@ -29,7 +30,10 @@ Example Predix.io python application.
 **hello.py**
 - Python script that contains a flask rest service
 
+
 References:
 https://devcloud.swcoe.ge.com/devspace/display/TBNPM/WMBU+and+Forecast+Analytics+Microservices+Design
+
 http://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html
-see also http://docs.cloudfoundry.org/cf-cli/cf-help.html
+
+http://docs.cloudfoundry.org/cf-cli/cf-help.html
