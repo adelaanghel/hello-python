@@ -10,10 +10,9 @@ Example Predix.io python application.
 ```
   $ cf login        -- login with Predix credentials
   $ cf buildpacks   -- buildpacks for manifest.yml file
-  $ cf apps
-  
-  see also http://docs.cloudfoundry.org/cf-cli/cf-help.html
+  $ cf apps  
 ```
+  see also http://docs.cloudfoundry.org/cf-cli/cf-help.html
 
 ## CloudFoundry Files
 **Manifest.yml**
