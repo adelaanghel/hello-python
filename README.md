@@ -12,13 +12,13 @@ Example Predix.io python application.
   $ cf buildpacks   -- buildpacks for manifest.yml file
   $ cf apps
 
-  see also http://docs.cloudfoundry.org/cf-cli/cf-help.html
+  *see also http://docs.cloudfoundry.org/cf-cli/cf-help.html*
 ```
 
 ## CloudFoundry Files
 **Manifest.yml**
-- used to tell CF what container it needs to build . 
-  see also http://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html
+- used to tell CF what container it needs to build                                                                           
+  *see also http://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html*
 
 **Procfile**
 - used to declare required runtime processes, called process types, for the web app. Process managers in a server use the process types to run and manage the workload
@@ -31,6 +31,6 @@ Example Predix.io python application.
 
 
 ## References:
-https://devcloud.swcoe.ge.com/devspace/display/TBNPM/WMBU+and+Forecast+Analytics+Microservices+Design
-http://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html .
+https://devcloud.swcoe.ge.com/devspace/display/TBNPM/WMBU+and+Forecast+Analytics+Microservices+Design                     
+http://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html                                                               
 http://docs.cloudfoundry.org/cf-cli/cf-help.html
