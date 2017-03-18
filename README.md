@@ -12,7 +12,8 @@ Example Predix.io python application.
   $ cf buildpacks   -- buildpacks for manifest.yml file
   $ cf apps  
 ```
-  see also http://docs.cloudfoundry.org/cf-cli/cf-help.html                                                                   
+  see also                                                                                                                  
+           http://docs.cloudfoundry.org/cf-cli/cf-help.html                                                                
            http://cli.cloudfoundry.org/en-US/cf/
 
 ## CloudFoundry Files
