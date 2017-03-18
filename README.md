@@ -13,6 +13,7 @@ Example Predix.io python application.
   $ cf apps  
 ```
   see also http://docs.cloudfoundry.org/cf-cli/cf-help.html
+           http://cli.cloudfoundry.org/en-US/cf/
 
 ## CloudFoundry Files
 **Manifest.yml**
